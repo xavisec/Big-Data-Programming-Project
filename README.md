@@ -1,4 +1,7 @@
-.
+## Screenshots
+
+![App Screenshot](https://github.coventry.ac.uk/5004CMD2425JANMAY/5004CMD-Data-Science/blob/main/readmeFiles/5004%20CMD%20Report%20Logo.svg)
+
 
 # Big Data Programming Project
 
@@ -11,8 +14,4 @@
 
 If you have any feedback, please reach out to us at bagesdiazx@uni.coventry.ac.uk
 
-
-## Screenshots
-
-![App Screenshot](https://github.coventry.ac.uk/5004CMD2425JANMAY/5004CMD-Data-Science/blob/main/readmeFiles/5004%20CMD%20Report%20Logo.svg)
 
