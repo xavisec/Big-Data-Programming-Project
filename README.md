@@ -2,8 +2,6 @@
 
 # Big Data Programming Project
 
-5004CMD Data Science - ID: 15532385
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
