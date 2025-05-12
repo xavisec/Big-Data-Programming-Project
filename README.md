@@ -1,5 +1,4 @@
-![App Screenshot](https://github.coventry.ac.uk/5004CMD2425JANMAY/5004CMD-Data-Science/blob/main/readmeFiles/5004%20CMD%20Report%20Logo.svg)
-
+![App Screenshot](https://github.com/xavisec/Big-Data-Programming-Project/blob/main/readmeFiles/5004%20CMD%20Report%20Logo.svg)
 
 # Big Data Programming Project
 
